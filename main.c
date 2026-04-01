@@ -21,5 +21,4 @@ void konversiBerat() {
     printf("       Terima kasih telah menggunakan!  \n");
     printf("========================================\n");
 
-    return 0;
 }
