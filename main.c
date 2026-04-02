@@ -1,5 +1,9 @@
 #include <stdio.h>
-
+#include <stdlib.h>
+void konversiSuhu();
+void konversiJarak();
+void konversiBerat();
+void konversiWaktu();
 int main() {
     int pilihan;
     char lanjut;
